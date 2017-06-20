@@ -9,7 +9,7 @@ region: PACA
 description:
     J'aime le développement informatique, les startups et l'apprentissage. Je travaille chez OpenClassrooms sur le parcours Développeur·se d'Application spécialité Python.
 image: celinems.png
-public: True
+public: False
 projects:
   - title: Présentez-vous !
     description: Une présentation de moi-même et un lien vers mon LinkedIn.
